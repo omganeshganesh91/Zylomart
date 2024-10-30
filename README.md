@@ -1,4 +1,4 @@
-# JVL cart
+# Zylomart
 
 an E-commerce Website built with MERN stack.
 
